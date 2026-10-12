@@ -1,0 +1,142 @@
+*{
+
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+scroll-behavior: smooth;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.navber{
+
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 40px 100px 0 100px;
+background-color: rgb(16, 2, 2);
+color: white;
+}
+
+span{
+   color: rgb(255, 81, 0); 
+}
+.pera{
+    color: rgb(255, 81, 0); 
+}
+
+.hero-content .p{
+    color: rgb(187, 186, 186);
+}
+
+
+
+.heading{
+    font-size: 70px;
+    padding: 15px 0;
+}
+
+.menu{
+    display: flex;
+    gap: 25px;
+}
+
+.menu a{
+    text-decoration: none;
+    color: rgb(187, 186, 186);
+}
+
+
+.btn1{
+    background-color: rgb(255, 81, 0);
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 30px;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+.hero-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 90vh;
+    background-color: rgb(16, 2, 2);
+    color: white;
+    padding: 0 100px;
+}
+
+.hero-img img{
+    width: 70%;
+    float: right;
+}
+
+
+.buttons{
+    display: flex;
+    gap: 20px;
+    padding: 20px 0 40px 0;
+}
+
+
+.btn-2{
+    background-color: rgb(255, 255, 255);
+    color: rgb(1, 1, 1);
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 30px;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.btn-3{
+    border: 1px solid rgb(116, 116, 116);
+    color: rgb(253, 253, 253);
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 30px;
+    font-weight: bold;
+    display: inline-block;
+}
+
+
+
+
+.number-group{
+    display: flex;
+     gap: 30px;
+}
+
+.group h1{
+    font-size: 40px;
+}
+
+.group p{
+    font-size: 13px;
+    color: rgb(187, 186, 186);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
